@@ -1,0 +1,95 @@
+{
+	"code": 200,
+	"message": "成功!",
+	"result": [{
+		"author": "Taylor Swift,Kendrick Lamar",
+		"link": "http://music.163.com/#/song?id=32102397",
+		"pic": "http://p1.music.126.net/iFB0_bywMAp4Lc-7zzKl-A==/2915904838305568.jpg?param=300x300",
+		"type": "netease",
+		"title": "Bad Blood",
+		"lrc": "",
+		"songid": 32102397,
+		"url": "http://music.163.com/song/media/outer/url?id=32102397.mp3"
+	}, {
+		"author": "Taylor Swift",
+		"link": "http://music.163.com/#/song?id=29572505",
+		"pic": "http://p1.music.126.net/3KDqQ9XW2Khj5Ia4tRqAAw==/18771962022688349.jpg?param=300x300",
+		"type": "netease",
+		"title": "Bad Blood",
+		"lrc": "",
+		"songid": 29572505,
+		"url": "http://music.163.com/song/media/outer/url?id=29572505.mp3"
+	}, {
+		"author": "Madilyn Bailey",
+		"link": "http://music.163.com/#/song?id=33378243",
+		"pic": "http://p1.music.126.net/4dgb3zxcBFuvysYuI_3l2w==/7928578349351637.jpg?param=300x300",
+		"type": "netease",
+		"title": "Bad Blood",
+		"lrc": "",
+		"songid": 33378243,
+		"url": "http://music.163.com/song/media/outer/url?id=33378243.mp3"
+	}, {
+		"author": "Nao",
+		"link": "http://music.163.com/#/song?id=35737788",
+		"pic": "http://p1.music.126.net/71PiF8zMTgNuc1U_UheNZw==/18146339905580058.jpg?param=300x300",
+		"type": "netease",
+		"title": "Bad Blood",
+		"lrc": "",
+		"songid": 35737788,
+		"url": "http://music.163.com/song/media/outer/url?id=35737788.mp3"
+	}, {
+		"author": "Jason Chen,Megan Nicole",
+		"link": "http://music.163.com/#/song?id=33004437",
+		"pic": "http://p1.music.126.net/K1nYaPu7cld1lC2-UBZ6Rg==/7942872000005034.jpg?param=300x300",
+		"type": "netease",
+		"title": "Bad Blood",
+		"lrc": "",
+		"songid": 33004437,
+		"url": "http://music.163.com/song/media/outer/url?id=33004437.mp3"
+	}, {
+		"author": "Bastille",
+		"link": "http://music.163.com/#/song?id=27608125",
+		"pic": "http://p1.music.126.net/5Qe0tzsm8R4H_dUPY3e2dg==/109951163411992591.jpg?param=300x300",
+		"type": "netease",
+		"title": "Bad Blood",
+		"lrc": "",
+		"songid": 27608125,
+		"url": "http://music.163.com/song/media/outer/url?id=27608125.mp3"
+	}, {
+		"author": "A R I Z O N A",
+		"link": "http://music.163.com/#/song?id=34916085",
+		"pic": "http://p1.music.126.net/2-vdaJ60wOUeEx5J0irgRQ==/7973658327249004.jpg?param=300x300",
+		"type": "netease",
+		"title": "Bad Blood",
+		"lrc": "",
+		"songid": 34916085,
+		"url": "http://music.163.com/song/media/outer/url?id=34916085.mp3"
+	}, {
+		"author": "Nao",
+		"link": "http://music.163.com/#/song?id=423228417",
+		"pic": "http://p1.music.126.net/aW5kQWbn27-LbzHOCdDeew==/109951163314559866.jpg?param=300x300",
+		"type": "netease",
+		"title": "Bad Blood",
+		"lrc": "",
+		"songid": 423228417,
+		"url": "http://music.163.com/song/media/outer/url?id=423228417.mp3"
+	}, {
+		"author": "Bastille",
+		"link": "http://music.163.com/#/song?id=28018014",
+		"pic": "http://p1.music.126.net/6dLnOSVIK2fmf-8XGxAuBQ==/2535473814661944.jpg?param=300x300",
+		"type": "netease",
+		"title": "Bad Blood",
+		"lrc": "",
+		"songid": 28018014,
+		"url": "http://music.163.com/song/media/outer/url?id=28018014.mp3"
+	}, {
+		"author": "Alvin",
+		"link": "http://music.163.com/#/song?id=419374654",
+		"pic": "http://p1.music.126.net/I3FhGCfWoei5ICeAdEXZTg==/18143041370603785.jpg?param=300x300",
+		"type": "netease",
+		"title": "Bad Blood",
+		"lrc": "",
+		"songid": 419374654,
+		"url": "http://music.163.com/song/media/outer/url?id=419374654.mp3"
+	}]
+}
